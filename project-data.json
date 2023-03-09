@@ -1,5 +1,5 @@
-[  {    "title": "Project 1",
-        "description": "This is a description for Project 1",
+[  {    "title": "GP-You Store",
+        "description": "GP-You is a template for a store front. I wanted to build a site that could allow various types of products to be sold using this template. Users are required to create an account, with the ability to upload a custom Avatar/Profile picture. Once the you user creates a account or signs in, they are able to browse the store and add or remove products from the cart. This site has Stripe built into it using demo mode, allowing mock payments on the site. ",
         "image_url": "https://media.licdn.com/dms/image/C562DAQGuI3hKDrqDjQ/profile-treasury-image-shrink_800_800/0/1676079814790?e=1679007600&v=beta&t=c-1dajoP2yFXQlXroAF6Gyrzj_Je52FaausrNrI5ZFM",
         "link_url": "https://gpyou-store.herokuapp.com/"
     },
