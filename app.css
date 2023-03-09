@@ -12,11 +12,29 @@ body {
     margin: 20px;
 }
 
-.project img {
-    width: 200px;
-    height: 150px;
+#about p {
+    width: 800px;
+    margin: 0 auto;
 }
 
+#about h2 {
+    text-align: center;
+}
+
+
+.project img {
+    width: 400px;
+    height: 200px;
+}
+
+.project p {
+    font-size: 14px;
+    width: 400px;
+}
+
+#work h2 {
+    text-align: center;
+}
 
 
 header {
