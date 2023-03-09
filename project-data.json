@@ -1,0 +1,16 @@
+[  {    "title": "Project 1",
+        "description": "This is a description for Project 1",
+        "image_url": "https://via.placeholder.com/300x200.png?text=Project+1",
+        "link_url": "https://example.com/project1"
+    },
+    {   "title": "Project 2",
+        "description": "This is a description for Project 2",
+        "image_url": "https://via.placeholder.com/300x200.png?text=Project+2",
+        "link_url": "https://example.com/project2"
+    },
+    {   "title": "Project 3",
+        "description": "This is a description for Project 3",
+        "image_url": "https://via.placeholder.com/300x200.png?text=Project+3",
+        "link_url": "https://example.com/project3"  
+    }
+]
